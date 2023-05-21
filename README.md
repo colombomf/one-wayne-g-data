@@ -7,7 +7,6 @@
 
 ## According to Spotify's API, here is a list of the most played tracks from the album "One Wayne G" by Mac Demarco, based on the given track numbers:
 
-#
 
 01. Track number 36 - 20191009 I Like Her
 
