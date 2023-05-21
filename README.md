@@ -1,7 +1,8 @@
 
 # Most Played Songs From "One Wayne G" - Mac Demarco  (2023/21/05)
-According to Spotify's API, here is a list of the most played tracks from the album "One Wayne G" by Mac Demarco, based on the given track numbers:
-
+![One Wayne G album cover](https://i.imgur.com/CI3De7m.jpg)
+According to Spotify's API, here is a list of the most played tracks from the album "One Wayne G" by Mac Demarco, based on the given track numbers: 
+#
 1.  Track number 36 - 20191009 I Like Her
 2.  Track number 24 - 20190724
 3.  Track number 1 - 20180512
