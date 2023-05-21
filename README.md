@@ -5,8 +5,6 @@
 
 ![One Wayne G album cover](https://i.imgur.com/CI3De7m.jpg)
 
-##
-
 ## According to Spotify's API, here is a list of the most played tracks from the album "One Wayne G" by Mac Demarco, based on the given track numbers:
 
 #
